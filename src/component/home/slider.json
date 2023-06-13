@@ -1,0 +1,34 @@
+[
+    
+    {
+      "name": "Ema Watson",
+      "sub": "Nice",
+      "detail": "Best product i ever buy",
+      "image": "https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+      "name": "Rehan",
+      "sub": "Good",
+      "detail": "Nice product I love it",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1680432607/cld-sample.jpg"
+    },
+    {
+      "name": "Aamish",
+      "sub": "Nice",
+      "detail": "What a great product",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1680432593/samples/people/bicycle.jpg"
+    },
+    {
+      "name": "Ashad",
+      "sub": "Awsome",
+      "detail": "Full paisa ka bachat lelo lelo",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1680432591/samples/people/boy-snow-hoodie.jpg"
+    },
+    {
+      "name": "Talib",
+      "sub": "Very Good",
+      "detail": "Accha Product hai Bhai Log Daba ke lo sb",
+      "image": "https://res.cloudinary.com/dcxnmagjx/image/upload/v1680432589/samples/people/smiling-man.jpg"
+    }
+  ]
+  
